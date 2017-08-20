@@ -1,0 +1,2 @@
+# slideshow
+jquery animate
